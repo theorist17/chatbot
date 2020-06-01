@@ -1,0 +1,12 @@
+pytorch-transformers==1.0.0
+Flask==1.1.1
+Flask-Cors==3.0.8
+torch
+pytorch-ignite
+transformers==2.5.1
+tensorboardX==1.8
+tensorflow  # for tensorboardX
+nltk
+allennlp_models
+chatterbot
+corenlp

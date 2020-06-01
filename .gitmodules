@@ -1,0 +1,12 @@
+[submodule "emotion-recognition/conv-emotion"]
+	path = emotion-recognition/conv-emotion
+	url = https://github.com/SenticNet/conv-emotion.git
+[submodule "emotion-recognition/emotion-classification-from-text"]
+	path = emotion-recognition/emotion-classification-from-text
+	url = https://github.com/faizan170/emotion-classification-from-text.git
+[submodule "persona"]
+	path = persona
+	url = https://github.com/huggingface/transfer-learning-conv-ai.git
+[submodule "qna"]
+	path = qna
+	url = https://github.com/kamalkraj/BERT-SQuAD.git
